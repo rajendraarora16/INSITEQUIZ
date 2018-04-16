@@ -7,13 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "lottie-react-native": "^2.5.0",
     "prop-types": "^15.6.1",
     "react": "16.3.1",
     "react-native": "0.55.2",
     "react-redux": "^5.0.7",
     "redux": "^3.7.2",
-    "redux-thunk": "^2.2.0",
-    "styled-jsx": "^2.2.6"
+    "redux-thunk": "^2.2.0"
   },
   "devDependencies": {
     "babel-jest": "22.4.3",
